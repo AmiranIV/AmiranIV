@@ -21,9 +21,9 @@
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=Jenkins&logoColor=grey" alt="AWS">
-  </a>
   </a>
 </p>
 
