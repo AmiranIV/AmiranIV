@@ -1,7 +1,16 @@
 ### Hi there welcome to my world! My name is Amiran and I'm a DevOps Engineer 
 
-Here are some ideas to get you started:
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+</p>
+
+---
+
+
+#### About me
 - Multilingual DevOps Engineer with core expertise in data science and software development with +2 years of combined experience in the freelance and corporate world, bringing a blend of creativity and technical proficiency to projects. Native Hebrew and Fluent in English.
   Here are some of my projects I hope you like and can contribute you with the highest value! 
 
