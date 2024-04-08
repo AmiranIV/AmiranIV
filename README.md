@@ -41,10 +41,7 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
 </p>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-  </a>
-</p>
+
 
  
 <div> 
