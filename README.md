@@ -22,12 +22,22 @@
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-%231572B6.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Kubernete">
+  </a>
   <a href="https://jenkins.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Jenkins-%231572B6.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/Jenkins-%23E34F26.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="jenkins">
   </a>
-  <a href="https://Kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-%23E34F26.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Grafana">
   </a>
+  <a href="https://elastic.co/" target="_blank">
+    <img src="https://img.shields.io/badge/ElasticSearch-%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="ElasticSearch">
+  </a>
+  <a href="https://terraform.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform%2314354C.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Terraform">
+  </a>
+
 </p>
 
 #### About me
