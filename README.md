@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/ElasticSearch-%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="ElasticSearch">
   </a>
   <a href="https://terraform.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Terraform%2314354C.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/Terraform-%2314354C.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Terraform">
   </a>
 
 </p>
