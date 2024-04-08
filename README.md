@@ -22,8 +22,11 @@
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
+  <a href="https://jenkins.io/" target="_blank">
     <img src="https://img.shields.io/badge/Jenkins-%231572B6.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
+  </a>
+  <a href="https://Kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-%23E34F26.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
   </a>
 </p>
 
