@@ -40,6 +40,10 @@
   <a href="https://tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-%23E34F26.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="TensorFlow">
   </a>
+  <a href="https://linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Linux">
+  </a>
+
 
 </p>
 
