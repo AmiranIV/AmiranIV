@@ -43,16 +43,7 @@
 </p>
 
 
- 
-<div> 
-  <a href="www.linkedin.com/in/amiranivgi](https://www.linkedin.com/in/amiran-ivgi-00aa77256/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-
-
-## My Skill Set  
+## Some of my skill set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
