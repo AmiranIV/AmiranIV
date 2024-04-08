@@ -30,7 +30,7 @@
 
 - 👯 I’m looking to collaborate and contribute on interesting projects!
 - 📫 How to reach me: You can reach me through my email: amiranivgi@gmail.com
-- ⚡ Fun fact: I am a music producer and mixing engineer 🎧 as well and I love to travel on surf trips! 🌊
+- ⚡ Fun fact: I am a music producer and mixing engineer 🎧 and I love to travel on surf trips! 🌊
 
 
 ---
