@@ -75,7 +75,7 @@
 </div></td></tr></table>  
 
 <br/>  
-#### Connect with me
+### Connect with me
   
 <div align="center">
 <a href="www.linkedin.com/in/amiranivgi" target="_blank">
